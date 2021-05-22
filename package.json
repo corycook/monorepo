@@ -5,8 +5,7 @@
     "devDependencies": {
         "@bazel/bazelisk": "latest",
         "@bazel/buildifier": "latest",
-        "@bazel/ibazel": "latest",
-        "http-server": "^0.12.3"
+        "@bazel/ibazel": "latest"
     },
     "scripts": {
         "build": "bazel build //...",
